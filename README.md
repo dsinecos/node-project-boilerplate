@@ -1,3 +1,18 @@
+## Boilerplate Structure (Tools and purpose)
+
+- Git (Version control)
+- Yarn/npm (Dependency management)
+- Docker (Containerization)
+- Testing
+  - Mocha (Test runner)
+  - Chai (Assertion library)
+  - Sinon (For mocking and stubbing)
+- ESLint (Code Linting)
+- Nodemon (Auto-restarting app)
+- Debug (Logging during development)
+- Dotenv (Setup environment variables)
+- Licensing (MIT)
+
 ## Setup
 
 ### For Development Environment
