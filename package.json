@@ -4,5 +4,13 @@
   "description": "Boilerplate code to start a new project in NodeJS",
   "main": "index.js",
   "author": "Divyanshu Singh <dsinecos@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1"
+  }
 }
