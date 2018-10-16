@@ -1,0 +1,8 @@
+{
+  "name": "node-project-boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate code to start a new project in NodeJS",
+  "main": "index.js",
+  "author": "Divyanshu Singh <dsinecos@gmail.com>",
+  "license": "MIT"
+}
