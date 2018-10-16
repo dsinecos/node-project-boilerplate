@@ -11,3 +11,9 @@
 3. Run a shell process inside the container
    - Open another terminal
    - `docker exec -it node-project-boilerplate sh`
+
+### Run tests
+
+1. Run a shell process inside the container
+   - Open another terminal
+   - `docker exec -it node-project-boilerplate npm run tests`
