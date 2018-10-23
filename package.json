@@ -18,6 +18,8 @@
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-jsx-a11y": "^6.1.2",
     "eslint-plugin-react": "^7.11.1",
+    "jsdoc": "^3.5.5",
+    "jsdoc-to-markdown": "^4.0.1",
     "mocha": "^5.2.0",
     "nodemon": "^1.18.4",
     "sinon": "^7.0.0"
