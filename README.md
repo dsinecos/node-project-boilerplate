@@ -1,7 +1,7 @@
 ## Boilerplate Structure (Tools and purpose)
 
 - Git (Version control)
-- Yarn/npm (Dependency management)
+- Yarn (Dependency management)
 - Docker (Containerization)
 - Testing
   - Mocha (Test runner)
@@ -31,4 +31,4 @@
 
 1. Run a shell process inside the container
    - Open another terminal
-   - `docker exec -it node-project-boilerplate npm run tests`
+   - `docker exec -it node-project-boilerplate yarn run tests`
