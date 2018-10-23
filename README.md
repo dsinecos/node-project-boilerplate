@@ -1,17 +1,28 @@
-## Boilerplate Structure (Tools and purpose)
+### Index
+- [Tools and purpose](#tools-and-purpose)
+- [Setup](#setup)
+    - [For Development Environment](#for-development-environment)
+    - [Run tests](#run-tests)
 
-- Git (Version control)
-- Yarn (Dependency management)
-- Docker (Containerization)
-- Testing
-  - Mocha (Test runner)
-  - Chai (Assertion library)
-  - Sinon (For mocking and stubbing)
-- ESLint (Code Linting)
-- Nodemon (Auto-restarting app)
-- Debug (Logging during development)
-- Dotenv (Setup environment variables)
-- Licensing (MIT)
+
+## Tools and purpose
+
+| Tool | Objective |
+| -- | -- |
+| Git (CLI) <br> GitKraken (GUI) | Version control |
+| Yarn | Dependency management |
+| Docker | Containerization |
+| ESLint | Code Linting |
+| JSDoc | Documentation |
+| | |
+| Testing |  |
+| Mocha | Test runner |
+| Chai | Assertion library |
+| Sinon | For mocking and stubbing |
+| | |
+| Nodemon | Auto-restarting app |
+| Debug | Logging during development |
+| Dotenv | Setup environment variables|
 
 ## Setup
 
