@@ -6,6 +6,8 @@
 - [Debug configuration](#debug-configuration)
     - [Dockerfile.dev](#dockerfiledev)
     - [launch.json](#launchjson)
+- [Scripts](#scripts)
+    - [`setup-node-boilerplate.sh`](#setup-node-boilerplatesh)
 
 
 ## Tools and purpose
@@ -110,3 +112,15 @@
     "remoteRoot": "/usr/app",
 }
 ```
+
+## Scripts
+
+### `setup-node-boilerplate.sh`
+
+`setup-node-boilerplate <folderName>`
+
+This scripts takes a folder name as input and
+
+- Clones the node-project-boilerplate into the folder (~/programming/<folderName>)
+- Squashes the existing commits into a single commit with the message 'setup dev environment'
+- Removes remote origin for the git setup
